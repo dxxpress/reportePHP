@@ -10,7 +10,7 @@ PUTO
     <body>
         <?php
         echo 'Hola COÑO';
-        echo 1+2;
+        echo 2+2+2+2+2+2+22;
         ?>
     </body>
 </html>
