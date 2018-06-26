@@ -9,7 +9,7 @@ PUTO
     </head>
     <body>
         <?php
-        echo 'Holita de mar, 2';
+        echo 'Hola de mar';
         ?>
     </body>
 </html>
