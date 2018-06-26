@@ -9,7 +9,7 @@ PUTO
     </head>
     <body>
         <?php
-        echo 'Hola de mar';
+        echo 'Hola COÑO';
         ?>
     </body>
 </html>
