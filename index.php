@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo '8==D';
+        echo '8==D1';
         ?>
     </body>
 </html>
