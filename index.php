@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo 'Holita de mar';
+        echo 'Holita de mar, puto el que lo lea';
         ?>
     </body>
 </html>
